@@ -1,6 +1,6 @@
 # pwd_generator
 
-A new Flutter project.
+Developed a password generator app using Flutter. The app allows users to create customized passwords based on various criteria such as length, inclusion of numbers, uppercase letters, lowercase letters, and special characters.
 
 ## Getting Started
 
